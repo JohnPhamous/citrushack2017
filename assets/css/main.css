@@ -1350,7 +1350,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 3.5em;
     margin-bottom: .25em;
 }
 
@@ -1478,6 +1478,7 @@ input, select, textarea {
 }
 
 a {
+    font-size: 1.5em;
     color: #f08404;
 }
 
